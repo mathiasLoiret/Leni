@@ -1,3 +1,26 @@
 page-home {
 
+#fond{
+  background-color: #01AD61;
+  color: white;
+  width: 100%;
+}
+
+#background{
+  background: url('../../assets/images/mascotte_leni.png') no-repeat;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-size: cover;
+  min-height: 80vh;
+}
+
+#title{
+  padding: 20px;
+  width: auto;
+  text-align: center;
+}
+
 }
